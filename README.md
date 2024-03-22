@@ -1,6 +1,7 @@
 # CSinSchools
 
 Repo Link (in case viewing locally within a folder): https://github.com/mushy2003/CSinSchools 
+
 This is the repo for all the teaching resources used for my teaching project as part of the Communicating Computer Science in Schools module at Imperial College London.
 The commit dates should be clear and visible. 
 
